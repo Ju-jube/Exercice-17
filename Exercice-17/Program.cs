@@ -43,6 +43,7 @@ namespace Exercice_17
                 
 
             } while (choix == "O");
+            //ligne test de modif
         }
     }
 }
